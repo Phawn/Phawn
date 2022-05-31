@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phawn
-- 👀 I’m interested in game developing
+- 👀 I’m interested in computer programming
 - 🌱 I’m currently learning C++ language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
